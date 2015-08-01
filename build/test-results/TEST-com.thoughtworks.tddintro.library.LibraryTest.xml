@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.tddintro.library.LibraryTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2015-08-01T03:07:41" hostname="Mariels-MacBook-Pro.local" time="0.224">
+  <properties/>
+  <testcase name="shouldDisplayFormattedTimeWhenFormattedTimeIsNotEmpty" classname="com.thoughtworks.tddintro.library.LibraryTest" time="0.217"/>
+  <testcase name="shouldPrintNothingWhenThereAreNoBooks" classname="com.thoughtworks.tddintro.library.LibraryTest" time="0.001"/>
+  <testcase name="shouldWelcomeUser" classname="com.thoughtworks.tddintro.library.LibraryTest" time="0.0"/>
+  <testcase name="shouldDisplayFormattedTimeWhenFormattedTimeIsAnEmptyString" classname="com.thoughtworks.tddintro.library.LibraryTest" time="0.001"/>
+  <testcase name="shouldPrintBookTitleWhenThereIsOneBook" classname="com.thoughtworks.tddintro.library.LibraryTest" time="0.0"/>
+  <testcase name="shouldPrintBothBookTitlesWhenThereAreTwoBooks" classname="com.thoughtworks.tddintro.library.LibraryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
