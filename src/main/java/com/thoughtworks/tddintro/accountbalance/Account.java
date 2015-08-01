@@ -6,7 +6,7 @@ package com.thoughtworks.tddintro.accountbalance;
 public class Account {
 
     private float balance;
-
+    
     public Account(float balance){this.balance = balance;}
 
 
